@@ -17,6 +17,7 @@
             <artifactId>junit</artifactId>
             <version>4.13.2</version>
             <scope>test</scope>
+            <!-- Code review comment -> Ensure the version of JUnit is up-to-date to avoid potential security vulnerabilities. -->
         </dependency>
     </dependencies>
 </project>
